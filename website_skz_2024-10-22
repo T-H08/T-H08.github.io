@@ -18,7 +18,8 @@
 <section>
     <h2>Die Member</h2>
     <br>
-  <div>
+    <div class="flex-container1">
+    <container>
         <h3>Bang Chan</h3>
         <img src="Bang_Chan.jpg" class="member">
         <ul>
@@ -27,8 +28,8 @@
            <li>Geburtstag: 03.10.1997</li>
            <li>Fun facts: er war 7 Jahre lang Trainee, er hat 1 Hund und ist Australier</li>
         </ul>
-  </div>
-  <div>
+    </container>
+  <container>
         <h3>Lee Know</h3>
         <img src="LK.jpg" class="member">
         <ul>
@@ -37,8 +38,8 @@
             <li>Geburtstag: 25.10.1998</li>
             <li>Fun facts: er war Backgroundtänzer für BTS, er hat 3 Katzen und ist beidhändig</li>
         </ul>
-  </div>
-  <div>
+  </container>
+  <container>
         <h3>Changbin</h3>
         <img src="CB.jpg" class="member">
         <ul>
@@ -47,8 +48,10 @@
             <li>Geburtstag: 11.08.1999</li>
             <li>Fun facts: er rappt schneller als Eminem und hat den schwarzen Gürtel in Taekwondo</li>
         </ul>
-  </div>
-  <div>
+    </container>
+  </div class="flex-container1">
+  <div class="flex-container2">
+  <container>
         <h3>Hyunjin</h3>
         <img src="HY.jpg" class="member">
         <ul>
@@ -57,8 +60,8 @@
             <li>Geburtstag: 20.03.2000</li>
             <li>Fun facts: er hat in Las Vegas gelebt, er ist Botschafter von Versace</li>
         </ul>
-  </div>
-  <div>
+    </container>
+  <container>
         <h3>Han</h3>
         <img src="Han.jpg" class="member">
         <ul>
@@ -67,8 +70,8 @@
             <li>Geburtstag: 14.09.2000</li>
             <li>Fun facts: er hat in Malaysia gelebt, er mag Manga</li>
         </ul>
-  </div>
-  <div>
+    </container>
+  <container>
         <h3>Felix</h3>
         <img src="FX.jpg" class="member">
         <ul>
@@ -77,8 +80,10 @@
             <li>Geburtstag: 15.09.2000</li>
             <li>Fun facts: er ist im UNICEF Honor's Club, er hat 12 Jahre lang Taekwondo gemacht</li>
         </ul>
-  </div>
-  <div>
+    </container>
+</div class="flex-container2">
+<div class="flex-container3">
+  <container>
         <h3>Seungmin</h3>
         <img src="SM.jpg" class="member">
         <ul>
@@ -87,8 +92,8 @@
             <li>Geburtstag: 22.09.2000</li>
             <li>Fun facts: er ist sehr organisiert, er wollte Basketballspieler werden</li>
         </ul>
-  </div>
-  <div>
+    </container>
+    <container>
         <h3>I.N</h3>
         <img src="IN.jpg" class="member">
         <ul>
@@ -97,6 +102,7 @@
             <li>Geburtstag: 08.01.2001</li>
             <li>Fun facts: er mag ASMRs und hat mit 7 Jahren gemodelt</li>
         </ul>
-  </div>
+    </container>
+</div class="flex-container3">
 </section>
     </html>

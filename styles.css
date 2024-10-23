@@ -21,3 +21,8 @@ h1, h2, h3, p, li {
     height: 30%;
     width: 30%;
     padding: 10px, 30px;
+}
+
+.flex-container1, flex-container2, flex-container3 {
+    display: flex;
+}
