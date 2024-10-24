@@ -23,6 +23,20 @@ h1, h2, h3, p, li {
     padding: 10px, 30px;
 }
 
-.flex-container1, flex-container2, flex-container3 {
+.flex-container1 {
     display: flex;
+}
+
+.flex-container2 {
+    display: flex;
+}
+
+.flex-container3 {
+    display: flex;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    gap: 20px 40px;
 }
