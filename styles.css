@@ -1,16 +1,25 @@
-h1 {
-    text-align: center;
-    font-size: 50px;
-}
-
-.Gruppenbild {
-    height: 70%;
-    width: 70%;
-}
-
 h1, h2, h3, p, li {
     font-family: sans-serif;
 }
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.Gruppenbild {
+    height: 80%;
+    width: 80%;
+}
+
 
 .li {
     font-family: sans-serif;
@@ -18,25 +27,27 @@ h1, h2, h3, p, li {
 }
 
 .member {
-    height: 30%;
-    width: 30%;
-    padding: 10px, 30px;
+    object-fit: contain;
+    padding: 5%;
 }
 
 .flex-container1 {
     display: flex;
+    gap: 30px 40px;
 }
 
 .flex-container2 {
     display: flex;
+    gap: 30px 40px;
 }
 
 .flex-container3 {
     display: flex;
+    gap: 20px 20px;
 }
 
 .container {
     display: flex;
     align-content: center;
-    gap: 20px 40px;
+    gap: 30px 40px;
 }
