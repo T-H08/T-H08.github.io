@@ -51,3 +51,7 @@ h3 {
     align-content: center;
     gap: 30px 40px;
 }
+
+.window-container {
+    padding: 100px;
+}
